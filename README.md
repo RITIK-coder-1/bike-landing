@@ -18,7 +18,7 @@ This project is a bike landing page website, created as a part of my milestone e
 
 ## SKILLS/TOOLS Involved:
 
-- HTML5, CSS3, TailwindCSS
+- HTML5, TailwindCSS
 
 ## Installation
 
